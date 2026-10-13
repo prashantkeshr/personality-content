@@ -14,15 +14,18 @@ packs/<pack-id>/       pack sources (JSON + media), published as release assets
 LICENSES.md            licence of every source used, with attribution rules
 ```
 
-## Packs (planned)
+## Packs
 
-| Pack | Contents |
-|---|---|
-| `strength` | Strength and mobility exercises: steps, muscles, equipment, levels |
-| `yoga-stretch` | Yoga poses and stretching routines |
-| `cardio-hiit` | Cardio and HIIT drills |
-| `martial-arts` | Solo drills: karate, kung fu, boxing and kickboxing (no sparring) |
-| `face-jaw-neck` | Jaw relaxation, neck posture and face routines, with realistic expectations |
+| Pack | Contents | Size |
+|---|---|---|
+| `exercise-library` | 1,324 gym and home exercises: steps in English, Hindi and Spanish, muscles, equipment | ~0.4 MB |
+| `illustrations` | Start/end line drawings for 269 exercises (139 matched to the library, 130 extra) | ~8.6 MB |
+| `yoga-stretch` | 16 yoga poses and stretches, 3 guided routines | ~5 KB |
+| `cardio-hiit` | 9 no-equipment cardio moves, HIIT 12, low-impact and Tabata routines | ~3 KB |
+| `martial-arts` | 12 solo boxing, karate, kung fu and Muay Thai drills, 3 routines (no sparring) | ~4 KB |
+| `face-jaw-neck` | 13 jaw, tongue-posture, neck and face exercises, 3 routines, with honest expectations | ~4 KB |
+
+Sizes and checksums are in `manifest.json`. See `LICENSES.md` for sources.
 
 ## Rules for adding content
 

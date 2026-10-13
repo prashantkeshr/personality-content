@@ -1,5 +1,120 @@
 {
   "schema": 1,
-  "updated": "2026-10-10",
-  "packs": []
+  "updated": "2026-10-12",
+  "packs": [
+    {
+      "id": "exercise-library",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Exercise library",
+        "hi": "व्यायाम लाइब्रेरी"
+      },
+      "summary": {
+        "en": "1324 exercises for gym and home: steps in English, Hindi and Spanish, target muscles and equipment.",
+        "hi": "जिम और घर के लिए 1324 व्यायाम: अंग्रेज़ी, हिंदी और स्पेनिश में चरण, लक्षित मांसपेशियाँ और उपकरण।"
+      },
+      "file": "packs/exercise-library/exercise-library-1.zip",
+      "size": 402998,
+      "sha256": "a0f49b535185b8ea8a1854d15622cb575e42513c89af154ed86f0bbc2ff04c18",
+      "license": "MIT",
+      "credit": "Text: exercises-dataset © 2026 Hasan Emir Yıldırım, MIT licence",
+      "items": 1324
+    },
+    {
+      "id": "illustrations",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Exercise illustrations",
+        "hi": "व्यायाम चित्र"
+      },
+      "summary": {
+        "en": "Start and end drawings for 269 exercises, plus 130 more illustrated exercises.",
+        "hi": "269 व्यायामों के शुरुआती और अंतिम चित्र, और 130 और चित्रित व्यायाम।"
+      },
+      "file": "packs/illustrations/illustrations-1.zip",
+      "size": 8756232,
+      "sha256": "fb6468d4886ffca037ea74afbb99773f2e029db6b3dd6b9cbd93d50fea1d3cf8",
+      "license": "CC BY-SA 4.0",
+      "credit": "Illustration: Everkinetic (everkinetic.com) by Greg Priday, CC BY-SA 4.0, resized",
+      "items": 269
+    },
+    {
+      "id": "yoga-stretch",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Yoga & stretching",
+        "hi": "योग और स्ट्रेचिंग"
+      },
+      "summary": {
+        "en": "16 poses and stretches with guided routines.",
+        "hi": "16 आसन और स्ट्रेच, गाइडेड रूटीन के साथ।"
+      },
+      "file": "packs/yoga-stretch/yoga-stretch-1.zip",
+      "size": 5087,
+      "sha256": "61ddf8c5b1f5812b0f49751edc9c1798b186ef5131fe20158753ca39174a6006",
+      "license": "MIT",
+      "credit": "Personality",
+      "items": 16
+    },
+    {
+      "id": "cardio-hiit",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Cardio & HIIT",
+        "hi": "कार्डियो और HIIT"
+      },
+      "summary": {
+        "en": "No-equipment cardio, HIIT and Tabata, with low-impact options.",
+        "hi": "बिना उपकरण कार्डियो, HIIT और टबाटा, कम झटके वाले विकल्पों के साथ।"
+      },
+      "file": "packs/cardio-hiit/cardio-hiit-1.zip",
+      "size": 2874,
+      "sha256": "c8d515876432ab58812d0eeed1b608595a6457f7ac3373975967da4cae6aa1a2",
+      "license": "MIT",
+      "credit": "Personality",
+      "items": 9
+    },
+    {
+      "id": "martial-arts",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Martial arts drills",
+        "hi": "मार्शल आर्ट अभ्यास"
+      },
+      "summary": {
+        "en": "Solo boxing, karate, kung fu and Muay Thai drills. No sparring.",
+        "hi": "अकेले बॉक्सिंग, कराटे, कुंग फ़ू और मुए थाई अभ्यास। कोई स्पारिंग नहीं।"
+      },
+      "file": "packs/martial-arts/martial-arts-1.zip",
+      "size": 4174,
+      "sha256": "18949133efce8e75e97a66735fdd84ee24a3f04a5867a1e751d98dfaa37c58fc",
+      "license": "MIT",
+      "credit": "Personality",
+      "items": 12
+    },
+    {
+      "id": "face-jaw-neck",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Face, jaw & neck",
+        "hi": "चेहरा, जबड़ा और गर्दन"
+      },
+      "summary": {
+        "en": "Jaw relaxation, tongue posture, neck mobility and face routines, with honest expectations.",
+        "hi": "जबड़े को आराम, जीभ की मुद्रा, गर्दन की गतिशीलता और चेहरे के रूटीन, ईमानदार अपेक्षाओं के साथ।"
+      },
+      "file": "packs/face-jaw-neck/face-jaw-neck-1.zip",
+      "size": 4427,
+      "sha256": "af8d9abbd89b7cb83cc927dab693ae2602343b09b4d1e1a7975bd10fcae6e644",
+      "license": "MIT",
+      "credit": "Personality",
+      "items": 13
+    }
+  ]
 }
