@@ -271,9 +271,12 @@ def main(hy_path, ek_path, img_dir):
         + img_files,
         "CC BY-SA 4.0", EK_CREDIT, len(ek))
 
+    import skills  # noqa: E402  martial-arts v2 + Indian martial arts
+    skills.apply(authored.PACKS)
     for pid, p in authored.PACKS.items():
-        add(pid, 1, "exercises", p["title"], p["summary"],
-            [("pack.json", pack_json(pid, 1, p["exercises"], p["programs"], "Personality", lic_mit))],
+        v = p.get("version", 1)
+        add(pid, v, "exercises", p["title"], p["summary"],
+            [("pack.json", pack_json(pid, v, p["exercises"], p["programs"], "Personality", lic_mit))],
             lic_mit, "Personality", len(p["exercises"]))
 
     json.dump({"schema": 1, "updated": "2026-10-12", "packs": manifest},

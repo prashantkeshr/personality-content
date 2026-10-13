@@ -80,22 +80,22 @@
     },
     {
       "id": "martial-arts",
-      "version": 1,
+      "version": 2,
       "kind": "exercises",
       "title": {
         "en": "Martial arts drills",
         "hi": "मार्शल आर्ट अभ्यास"
       },
       "summary": {
-        "en": "Solo boxing, karate, kung fu and Muay Thai drills. No sparring.",
-        "hi": "अकेले बॉक्सिंग, कराटे, कुंग फ़ू और मुए थाई अभ्यास। कोई स्पारिंग नहीं।"
+        "en": "Boxing, Muay Thai, karate, kung fu and self-defence: solo techniques and drills, no sparring.",
+        "hi": "बॉक्सिंग, मुए थाई, कराटे, कुंग फ़ू और आत्मरक्षा: अकेले की तकनीक और अभ्यास, कोई स्पारिंग नहीं।"
       },
-      "file": "packs/martial-arts/martial-arts-1.zip",
-      "size": 4174,
-      "sha256": "18949133efce8e75e97a66735fdd84ee24a3f04a5867a1e751d98dfaa37c58fc",
+      "file": "packs/martial-arts/martial-arts-2.zip",
+      "size": 6356,
+      "sha256": "6d741b270db7994310215659152f48d0d87f2fd51c13fa6cba1d994bcd340cc1",
       "license": "MIT",
       "credit": "Personality",
-      "items": 12
+      "items": 20
     },
     {
       "id": "face-jaw-neck",
@@ -115,6 +115,25 @@
       "license": "MIT",
       "credit": "Personality",
       "items": 13
+    },
+    {
+      "id": "indian-martial-arts",
+      "version": 1,
+      "kind": "exercises",
+      "title": {
+        "en": "Indian martial arts",
+        "hi": "भारतीय युद्ध-कलाएँ"
+      },
+      "summary": {
+        "en": "Kalaripayattu, Silambam, Gatka, Mardani Khel, Thang-ta, Kushti, Musti Yuddha and Lathi Khela: stances, footwork, stick drills and akhara conditioning.",
+        "hi": "कलरीपयट्टु, सिलंबम, गतका, मर्दानी खेल, थांग-ता, कुश्ती, मुष्टि युद्ध और लाठी खेला: मुद्राएँ, फ़ुटवर्क, छड़ी अभ्यास और अखाड़ा कसरत।"
+      },
+      "file": "packs/indian-martial-arts/indian-martial-arts-1.zip",
+      "size": 7100,
+      "sha256": "d982404eb096b59563cc164a698fda859d2f127b5bcc02e6ea380ad521d89a37",
+      "license": "MIT",
+      "credit": "Personality",
+      "items": 22
     }
   ]
 }

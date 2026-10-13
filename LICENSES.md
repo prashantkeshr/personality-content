@@ -6,7 +6,7 @@ Each pack lists its sources in `manifest.json` (`license`, `credit`), and every 
 |---|---|---|---|
 | `exercise-library` | [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset) — names, steps (English, Hindi, Spanish), body part, equipment, muscles | MIT, © 2026 Hasan Emir Yıldırım | **Text only.** That repository's GIFs and thumbnails are © Gym visual and need their own licence, so they are **not** included. The full licence travels inside the pack as `LICENSE.txt`. |
 | `illustrations` | [everkinetic/data](https://github.com/everkinetic/data) — start/end drawings and text, from everkinetic.com by Greg Priday | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Changed: converted to grayscale, trimmed and resized to 360 px. This pack (and any adaptation of it) stays CC BY-SA 4.0. `CREDITS.txt` travels inside the pack. |
-| `yoga-stretch`, `cardio-hiit`, `martial-arts`, `face-jaw-neck` | Written for Personality (`src/authored.py`) | MIT | Movements are drawn live by the app's own figure; no images. |
+| `yoga-stretch`, `cardio-hiit`, `martial-arts`, `indian-martial-arts`, `face-jaw-neck` | Written for Personality (`src/authored.py`, `src/skills.py`) | MIT | Movements are drawn live by the app's own figure; no images. |
 
 ## Rules for adding content
 

@@ -22,7 +22,8 @@ LICENSES.md            licence of every source used, with attribution rules
 | `illustrations` | Start/end line drawings for 269 exercises (139 matched to the library, 130 extra) | ~8.6 MB |
 | `yoga-stretch` | 16 yoga poses and stretches, 3 guided routines | ~5 KB |
 | `cardio-hiit` | 9 no-equipment cardio moves, HIIT 12, low-impact and Tabata routines | ~3 KB |
-| `martial-arts` | 12 solo boxing, karate, kung fu and Muay Thai drills, 3 routines (no sparring) | ~4 KB |
+| `martial-arts` | 20 solo boxing, Muay Thai, karate, kung fu and self-defence techniques, 5 routines (no sparring) | ~6 KB |
+| `indian-martial-arts` | 22 techniques from Kalaripayattu, Silambam, Gatka, Mardani Khel, Thang-ta, Kushti, Musti Yuddha and Lathi Khela, 4 routines | ~6 KB |
 | `face-jaw-neck` | 13 jaw, tongue-posture, neck and face exercises, 3 routines, with honest expectations | ~4 KB |
 
 Sizes and checksums are in `manifest.json`. See `LICENSES.md` for sources.
